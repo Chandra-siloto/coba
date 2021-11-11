@@ -7,6 +7,24 @@
 <body>
 
 	<h1>HTML</h1>
-
+	<form>
+		<table>
+			<tr>
+				<td>Nama Lengkap</td>
+				<td>:</td>
+				<td><input type="text" name="Nama Lengkap" placeholder="Nama Lengkap"></td>
+			</tr>
+			<tr>
+				<td>Alamat</td>
+				<td>:</td>
+				<td><input type="text" name="Alamat" placeholder="Alamat sekarang"></td>
+			</tr>
+			<tr>
+				<td>Umur</td>
+				<td>:</td>
+				<td><input type="text" name="Umur" placeholder="Umur"></td>
+			</tr>
+		</table>
+	</form>
 </body>
 </html>
