@@ -6,16 +6,16 @@
 	<link rel="stylesheet" type="text/css" href="hyper.css">
 	<title>Belajar HTML</title>
 	<style>
-		p {
-			color: blueviolet;
+		h1 {
+			color: darkcyan;
 		}
 		tr, td {
 			display: inline;
 		}
-		h2 {
-			color: darkcyan;
+		h3 {
+			color: brown;
 		}
-		
+
 	</style>
 </head>
 <body>
