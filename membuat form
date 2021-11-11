@@ -9,7 +9,7 @@
 
 	<h1>HTML</h1>
 	<form action="input_data.php">
-		<table>
+		<table width="100%" border="1" align="center">
 			<tr>
 				<td>Nama Lengkap</td>
 				<td>:</td>
