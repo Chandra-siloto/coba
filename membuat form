@@ -12,9 +12,6 @@
 		tr, td {
 			display: inline;
 		}
-		h2 {
-			color: red;
-		}
 	</style>
 </head>
 <body>
