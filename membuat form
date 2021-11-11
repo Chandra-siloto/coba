@@ -5,6 +5,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="hyper.css">
 	<title>Belajar HTML</title>
+	<style>
+		p {
+			color: blueviolet;
+		}
+		tr, td {
+			display: inline;
+		}
+	</style>
 </head>
 <body>
 
